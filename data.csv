@@ -1,0 +1,6 @@
+node1,node2,node3,node4,node5,node6,value,flow
+A,B,C,D,E,F,30,1
+A,B,G,D,G,H,30,2
+C,B,H,E,G,F,20,3
+D,A,H,E,H,J,10,4
+A,F,G,H,I,J,10,5
